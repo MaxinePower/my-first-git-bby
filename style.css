@@ -1,0 +1,9 @@
+body {
+    background: cornsilk;
+}
+h1 {
+    border: 2px solid cornflowerblue;
+}
+h1, h2, p {
+    color: #0047ab;
+}
